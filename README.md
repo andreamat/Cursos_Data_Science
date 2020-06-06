@@ -18,7 +18,7 @@ Sou doutora em engenharia elétrica, graduada em matemática e cofundadora do pr
 
 
 ## Projetos:
-Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Deep Learning:
+Aqui você encontra os notebooks dos projetos desenvolvidos durante os meus estudos na área de Data Science, Machine Learning e Deep Learning:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 
