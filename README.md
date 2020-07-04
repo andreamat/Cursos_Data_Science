@@ -20,7 +20,7 @@ Sou doutora em engenharia elétrica, graduada em matemática e cofundadora do pr
 ## Projetos:
 Aqui você encontra os notebooks dos meus projetos desenvolvidos durante os cursos na área de Data Science:
 
-* **Analisando a Violência no Rio de Janeiro:** bit.ly/violencia_rio.
+* **Analisando a Violência no Rio de Janeiro:** https://bit.ly/violencia_rio.
 
 
 ---
